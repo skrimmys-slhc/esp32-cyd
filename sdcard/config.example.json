@@ -1,0 +1,17 @@
+{
+  "wifi_ssid": "MyHomeWiFi",
+  "wifi_pass": "my-wifi-password",
+  "timezone": "EST5EDT,M3.2.0,M11.1.0",
+
+  "ha_url": "http://homeassistant.local:8123",
+  "ha_token": "PASTE_LONG_LIVED_ACCESS_TOKEN_HERE",
+  "ha_entities": [],
+
+  "nest_project_id": "",
+  "nest_client_id": "",
+  "nest_client_secret": "",
+  "nest_refresh_token": "",
+
+  "flock_extra_ssids": [],
+  "flock_extra_ouis": []
+}
