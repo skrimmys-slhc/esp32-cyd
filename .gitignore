@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+*.elf
+build/
+sdcard/config.json
